@@ -25,6 +25,7 @@ class Interface {
 
     public static void main(String[] args) {
         Desenabil d = new Cerc();
+        System.out.println("My name is Vova.");
         d.deseneaza();
     }
 }
